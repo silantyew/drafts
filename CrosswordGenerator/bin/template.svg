@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+	<foreignObject x="10" y="10" width="[WIDTH]" height="[HEIGHT]">
+		<body xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				table { font-family: Georgia; border-spacing: 0; border-collapse: collapse; text-align: center; }
+				td { box-sizing: border-box; width: [CELL_SIZE]px; height: [CELL_SIZE]px; border: 2px solid black; vertical-align: middle; }
+			</style>
+			<table>
+				[CONTENT]
+			</table>
+		</body>
+	</foreignObject>
+</svg>
